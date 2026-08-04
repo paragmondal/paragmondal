@@ -22,7 +22,7 @@
 - 🎓 Computer Science Engineering student at **Pandit Deendayal Energy University**, India
 - 💻 Passionate about **Python**, **Machine Learning**, and **Cybersecurity**
 - 🌱 Actively contributing to **open source** projects
-- ⚡ Fun fact: I enjoy turning small ideas into working prototypes
+- ⚡ Fun fact: I enjoy turning small ideas into working prototypes.
 
 ---
 
