@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Parag Mondal 👋</h1>
 
-<h3 align="center">CSE Student | Python Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">Aspiring Data Scientist | Machine Learning Engineer | RAG & LLM Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+with+Python+%F0%9F%90%8D;Exploring+Machine+Learning+%F0%9F%A4%96;Open+to+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+ML+Pipelines+%F0%9F%A4%96;Exploring+RAG+%2B+LLMs+%F0%9F%A7%A0;Open+to+Data+Science+Internships+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,29 +13,68 @@
   <a href="https://github.com/paragmondal">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="mailto:paragmondal0112@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Computer Science Engineering student at **Pandit Deendayal Energy University**, India
-- 💻 Passionate about **Python**, **Machine Learning**, and **Cybersecurity**
-- 🌱 Actively contributing to **open source** projects
-- ⚡ Fun fact: I enjoy turning small ideas into working prototypes.
+- 🎓 Final-year B.Tech in Computer Engineering at **Pandit Deendayal Energy University**, Gandhinagar (May 2023 – May 2027)
+- 📊 Focused on **Data Science**, **Machine Learning**, and **Generative AI** — building end-to-end ML pipelines, RAG systems, and data-driven applications
+- 💼 Seeking **Data Science / Machine Learning internship** opportunities
+- 🌐 Previously interned as a **Web & Application Developer** on the MERN stack, building sports-booking platform features
+- 🏛️ Served as **President of EmpowerU: The Public Innovators Club, PDEU**, leading 20+ members on tech and outreach initiatives
+- 🏆 Recognized at **Breach 2026 FinTech Hackathon** (Economania 2026, PDEU)
 
 ---
 
 ### 🛠️ Tech Stack
 
+**Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+</p>
+
+**Data Science & ML**
+<p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+</p>
+
+**Deep Learning & Generative AI**
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAG%20%2F%20LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+**Visualization & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+**Tools & Frameworks**
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
@@ -45,10 +84,30 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [GharSewa](https://github.com/paragmondal/GharSewa) | Home services platform connecting users with local service providers | JavaScript |
-| [Splitora](https://github.com/paragmondal/Splitora) | Expense-splitting app to manage shared costs with friends/groups | JavaScript |
+| [Veritas](https://github.com/paragmondal) | Enterprise hybrid RAG system combining TF-IDF/OpenAI embeddings and BM25 retrieval with Reciprocal Rank Fusion; 1.00 mean context recall, 100% refusal rate on unanswerable queries | Python, RAG, LLM Evaluation |
+| [AgroSmart](https://github.com/paragmondal) | End-to-end ML pipeline recommending optimal crops across 22 classes from soil/climate data; Random Forest model with >99% test accuracy, deployed via Flask REST API | Python, Scikit-learn, Flask |
+| [Splitora](https://github.com/paragmondal/Splitora) | AI-powered expense splitting app with NLP-driven auto-categorization, automated balance splits, and a blockchain-based immutable settlement ledger (Solidity) | React/Vite, Node.js, Prisma, PostgreSQL, Solidity |
 
-> ✏️ Add a one-line description + topics/tags to each repo on GitHub — it makes them far more discoverable.
+> ✏️ Add repo links for Veritas and AgroSmart once they're public, plus topics/tags on each repo for discoverability.
+
+---
+
+### 💼 Experience
+
+**Website and Application Developer Intern — FirstBookIt** (June 2026 – July 2026), Remote
+Contributed to development, debugging, and feature delivery for a sports-booking platform using the MERN stack; improved application reliability through iterative testing.
+
+**President — EmpowerU: The Public Innovators Club, PDEU** (July 2025 – June 2026), Gandhinagar
+Led club strategy, technical initiatives, and outreach programs, coordinating 20+ members and partnerships to expand technology education and community impact.
+
+---
+
+### 📜 Certifications
+
+- **Machine Learning Specialization** — Stanford University & DeepLearning.AI (Coursera), Andrew Ng
+- **Google Data Analytics Professional Certificate** — Google
+- **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** — Oracle
+- 🏆 **Breach 2026 FinTech Hackathon** — Team Logic Lords, Economania 2026 (PDEU)
 
 ---
 
@@ -63,9 +122,7 @@
   <img src="https://streak-stats.demolab.com/?user=paragmondal&theme=tokyonight&hide_border=true" />
 </p>
 
-> ⚠️ These cards are rendered by a free public service that occasionally rate-limits or goes down. If a card shows a broken image, it's usually temporary — reload in a few minutes. For a permanently reliable version, see the self-hosting note below.
-
----
+> ⚠️ These cards are rendered by a free public service that occasionally rate-limits or goes down. If a card shows a broken image, it's usually temporary — reload in a few minutes.
 
 <details>
 <summary>🔧 Want stats that never break? (click to expand)</summary>
@@ -88,7 +145,8 @@ This is more setup, but it means your stats render from your own repo and can't 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parag-mondal-1a124a2b0/">LinkedIn</a> •
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="mailto:paragmondal0112@gmail.com">Email</a> •
+  <a href="tel:+919157145864">+91 9157145864</a>
 </p>
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out!</i></p>
