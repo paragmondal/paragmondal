@@ -51,15 +51,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=paragmondal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paragmondal&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="center">
